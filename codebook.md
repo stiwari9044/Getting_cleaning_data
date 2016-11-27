@@ -2,6 +2,7 @@
 
 *Subject ID*: A numeric identification of the 30 volunteers enrolled in the study
 *Activity*: Activities performed by the subjects, contains:
+	
 	WALKING 
 	
 	WALKING_UPSTAIRS
