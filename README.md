@@ -1,5 +1,7 @@
 **This script processes the Human Activity Recognition data to report mean for each subject for each activity for each feature.**
 
+*your working directory should be **UCI HAR Dataset** *
+
 In the first step, the research data which is saved in X_test and X_train is read into R. 
 the y_train and y_test identify the associated activity such as Walking,  Sitting etc described in activity_labels provided with the data. 
 
